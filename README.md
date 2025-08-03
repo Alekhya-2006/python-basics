@@ -1,2 +1,10 @@
-# python-basics
-A structured collection of Python basics including variables, data types, input/output, conditionals, loops, functions, and more — ideal for beginners and self-learners.
+# 🐍 Python Basics
+
+Welcome to my **Python Basics** repository!  
+This repo contains simple, beginner-friendly Python programs and concepts to help you learn and practice core Python skills.
+
+---
+
+## 📘 What's Included
+
+- ✅ Printing & Comments
