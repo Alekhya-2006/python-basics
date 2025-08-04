@@ -8,3 +8,4 @@ This repo contains simple, beginner-friendly Python programs and concepts to hel
 
 -  Printing & Comments
 -  Variables and Data Types
+-  Input
