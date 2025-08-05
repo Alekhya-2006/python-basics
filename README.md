@@ -20,4 +20,4 @@ This repo contains simple, beginner-friendly Python programs that help you learn
 -  Loops in Python:
   - `for` loop with list, range
   - `while` loop with conditions
-  
+    
