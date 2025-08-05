@@ -16,3 +16,8 @@ This repo contains simple, beginner-friendly Python programs that help you learn
 -  Conditional Statements (`if`, `else`, `elif`)
 -  Nested `if` Statements
 -  Real-life examples (like traffic light simulation)
+-  Lists (creating, accessing, modifying, appending, deleting)
+-  Loops in Python:
+  - `for` loop with list, range
+  - `while` loop with conditions
+  
